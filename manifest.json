@@ -7,7 +7,7 @@
   "author": "Quicktext Community",
   "browser_specific_settings": {
     "gecko": {
-      "id": "quicktext.scripts@community.jobisoft.de",
+      "id": "custom.quicktext.scripts@altgr.xyz",
       "strict_min_version": "136.0"
     }
   },
