@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Quicktext Community Scripts",
-  "short_name": "Community Scripts",
-  "description": "A set of Quicktext scripts maintained by the community",
+  "name": "Custom Quicktext Community Scripts",
+  "short_name": "Custom Community Scripts",
+  "description": "A set of Quicktext scripts maintained by the community and customized by carloshr",
   "version": "1.4",
   "author": "Quicktext Community",
   "browser_specific_settings": {
